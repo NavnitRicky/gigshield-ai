@@ -35,6 +35,7 @@ Warns workers before high-risk conditions and activates coverage.
 Provides a timeline explaining why payouts occurred.
 
 ## 🔄 Workflow
+
 Worker Activity  
 ↓  
 Signal Detection  
@@ -50,6 +51,10 @@ Fraud Detection
 Payout  
 ↓  
 Dashboard  
+-----
+## 🏗 Architecture
+
+![Architecture](Workflow.png)
 
 ## 💰 Weekly Pricing Model
 | Plan | Premium | Coverage |
