@@ -1,29 +1,33 @@
-#  GigShield AI  
+## GigShield AI  
 ### Adaptive Income Protection Engine for Gig Workers  
 
 ## Problem  
+
 Gig workers lose income due to:
-- 🌡️ Extreme weather  
-- 📉 Low demand  
+-  Extreme weather  
+-  Low demand  
 -  Mobility restrictions  
 
  There is **no real-time system** to:
 - Detect disruptions  
 - Measure actual income loss  
-- Provide instant compensation
+- Provide instant compensation  
 
-  
-### Solution  
+---
+
+## Solution  
+
 GigShield AI is a **parametric insurance platform** that:
 
 - Detects disruptions in real-time  
 - Validates impact using multiple signals  
 - Automatically triggers payouts  
 
-✅ **No manual claims required**
+ **No manual claims required**
 
+---
 
-#  Core Innovation  
+## Core Innovation  
 
 GigShield AI introduces a **multi-layer intelligence system**:
 
@@ -36,7 +40,7 @@ GigShield AI introduces a **multi-layer intelligence system**:
 
 ---
 
-# 🔍 Key Features  
+#  Key Features  
 
 ##  Income Digital Twin
 - Estimates expected income  
@@ -66,7 +70,7 @@ GigShield AI introduces a **multi-layer intelligence system**:
 
 ---
 
-## 🔄 Disruption Replay
+##  Disruption Replay
 - Timeline view of:
   - Trigger  
   - Impact  
@@ -74,9 +78,9 @@ GigShield AI introduces a **multi-layer intelligence system**:
 
 ---
 
-# Adversarial Defense & Anti-Spoofing Strategy  
+#  Adversarial Defense & Anti-Spoofing Strategy  
 
-### Problem: GPS Spoofing  
+##  Problem: GPS Spoofing  
 
 Attackers can:
 - Fake GPS location  
@@ -85,7 +89,7 @@ Attackers can:
 
 ---
 
-## Our Solution: Multi-Signal Validation  
+##  Our Solution: Multi-Signal Validation  
 
 GigShield AI does **not rely on GPS alone**  
 
@@ -114,148 +118,11 @@ GigShield AI does **not rely on GPS alone**
 |------|-------|
 | 0–29 | Auto payout ⚡ |
 | 30–59 | Soft verification  |
-| 60+ | Hold & review  |
+| 60+ | Hold & review |
 
 ---
 
 ##  Fairness for Workers  
-
-- No instant rejection  
-- Transparent verification  
-- Handles network issues & real disruptions  
-
----
-
-# 🔄 Workflow  
-# 🚀 GigShield AI  
-### Adaptive Income Protection Engine for Gig Workers  
-
-> Guidewire DEVTrails 2026 Submission  
-
----
-
-# 📌 Problem  
-
-Gig workers lose income due to:
-- 🌡️ Extreme weather  
-- 📉 Low demand  
-- 🚫 Mobility restrictions  
-
-❌ There is **no real-time system** to:
-- Detect disruptions  
-- Measure actual income loss  
-- Provide instant compensation  
-
----
-
-# 💡 Solution  
-
-GigShield AI is a **parametric insurance platform** that:
-
-- Detects disruptions in real-time  
-- Validates impact using multiple signals  
-- Automatically triggers payouts  
-
-✅ **No manual claims required**
-
----
-
-# 🧠 Core Innovation  
-
-GigShield AI introduces a **multi-layer intelligence system**:
-
-1. **Disruption Detection**  
-2. **Impact Estimation**  
-3. **Income Digital Twin**  
-4. **Confidence Engine**  
-5. **Fraud Detection (Anti-Spoofing)**  
-6. **Explainable Payout System**  
-
----
-
-# 🔍 Key Features  
-
-## 📊 Income Digital Twin
-- Estimates expected income  
-- Compares with actual earnings  
-- Calculates real income loss  
-
----
-
-## 🧠 Confidence Engine
-- Validates disruption using:
-  - Weather data  
-  - Worker activity  
-  - Location patterns  
-- Ensures payout accuracy  
-
----
-
-## 📍 Hyper-Local Coverage
-- Zone-level triggers  
-- More precise than city-wide systems  
-
----
-
-## 🛡️ Protection Mode
-- Warns workers before high-risk conditions  
-- Activates smart coverage  
-
----
-
-## 🔄 Disruption Replay
-- Timeline view of:
-  - Trigger  
-  - Impact  
-  - Payout decision  
-
----
-
-# 🛡️ Adversarial Defense & Anti-Spoofing Strategy  
-
-## 🚨 Problem: GPS Spoofing  
-
-Attackers can:
-- Fake GPS location  
-- Trigger false payouts  
-- Exploit automated systems  
-
----
-
-## ✅ Our Solution: Multi-Signal Validation  
-
-GigShield AI does **not rely on GPS alone**  
-
-### Signals Used:
-- 📍 GPS trajectory (movement patterns)  
-- 📱 Device & network data  
-- 🛵 Platform activity (orders, logins)  
-- 🌦️ Environmental correlation  
-- 👥 Cluster behavior (fraud rings)  
-
----
-
-## 🧠 Fraud Detection Layers  
-
-1. **Trajectory Analysis** → Detect unrealistic movement  
-2. **Device Validation** → IP + device mismatch detection  
-3. **Activity Check** → No work = suspicious claim  
-4. **Cluster Detection** → Identify coordinated fraud  
-5. **AI Anomaly Detection** → Fraud probability scoring  
-
----
-
-## ⚖️ Smart Decision Engine  
-
-| Score | Action |
-|------|-------|
-| 0–29 | Auto payout ⚡ |
-| 30–59 | Soft verification 🟡 |
-| 60+ | Hold & review 🔴 |
-
----
-
-## 🤝 Fairness for Workers  
 
 - No instant rejection  
 - Transparent verification  
