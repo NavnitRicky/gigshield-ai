@@ -65,8 +65,8 @@ Dashboard
 
 ---
 
-## 🏗 Architecture
-![Architecture](workflow.png)
+##  Architecture
+![Architecture](Workflow.png)
 
 ---
 
