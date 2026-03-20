@@ -180,3 +180,10 @@ Every payout is fully explainable using:
 #  Demo Video  
 
 (Add your demo link here)
+
+### Details Documentation
+
+For a deeper understanding of GigShield AI:
+
+-  **Overview & Architecture** → [View Docs](docs/README.md)  
+-  **Problem Deep Dive (with Adversarial Threats)** → [Read Here](docs/03-problem-deep-dive.md)
