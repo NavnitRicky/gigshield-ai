@@ -1,38 +1,49 @@
-# GigShield AI🛡️  
+# GigShield AI  
 ### Adaptive Income Protection Engine for Gig Workers
 
-## 📌 Problem
-Gig workers lose income due to external disruptions like weather, demand drops, and mobility restrictions.
+---
 
+##  Problem
+Gig workers lose income due to disruptions like weather, low demand, and mobility restrictions.  
 There is no real-time system to detect and compensate this income loss automatically.
 
+---
 
-## 💡 Solution
-GigShield AI is a parametric insurance platform that detects disruptions, validates impact, and triggers automatic payouts using intelligent decision systems.
+## Solution
+GigShield AI is a parametric insurance platform that detects disruptions, validates their impact, and triggers automatic payouts — without any manual claims.
 
+---
 
-## 🧠 Core Innovation
-Unlike traditional solutions, our system uses a multi-layer intelligence approach:
+##  Core Innovation
+Our system goes beyond simple triggers using a multi-layer approach:
 
-- Disruption Detection Layer  
-- Impact Estimation Layer  
+- Disruption Detection  
+- Impact Estimation  
 - Income Digital Twin  
 - Confidence Engine  
-- Fraud Intelligence  
-- Explainable Payout System
+- Fraud Detection  
+- Explainable Payout System  
 
-- ## ⭐ Key Unique Features
-### 1. Income Digital Twin
-Simulates expected income vs actual income to calculate real loss.
+---
 
-### 2. Confidence Engine
-Combines multiple signals to validate disruptions before triggering payout.
+##  Key Features
 
-### 3. Protection Mode
+###  Income Digital Twin
+Estimates expected income and compares it with actual earnings to calculate real loss.
+
+###  Confidence Engine
+Validates disruptions using multiple signals before triggering payouts.
+
+###  Hyper-Local Coverage
+Uses zone-level parametric triggers instead of city-wide data, ensuring accurate and fair payouts.
+
+###  Protection Mode
 Warns workers before high-risk conditions and activates coverage.
 
-### 4. Disruption Replay
-Provides a timeline explaining why payouts occurred.
+###  Disruption Replay
+Shows a clear timeline of events explaining why payouts occurred.
+
+---
 
 ## 🔄 Workflow
 
@@ -51,29 +62,46 @@ Fraud Detection
 Payout  
 ↓  
 Dashboard  
------
+
+---
+
 ## 🏗 Architecture
+![Architecture](workflow.png)
 
-![Architecture](Workflow.png)
+---
 
-## 💰 Weekly Pricing Model
+##  Weekly Pricing Model
+
 | Plan | Premium | Coverage |
 |------|--------|----------|
 | Basic | ₹20 | ₹500 |
 | Standard | ₹30 | ₹800 |
 
-## 🤖 AI Usage
-- Risk prediction  
-- income estimation  
-- anomaly detection  
-- decision scoring
+---
 
-- ## 🔍 Transparency
-Every payout decision is explainable through:
+##  AI Usage
+- Risk prediction  
+- Income estimation  
+- Anomaly detection  
+- Decision scoring  
+
+---
+
+##  Transparency
+Every payout is explainable through:
 - input signals  
 - confidence score  
-- disruption timeline
+- disruption timeline  
 
-- ## 🎥 Demo Video
+---
 
+##  Why This Stands Out
+- No claim process (instant payouts)  
+- Multi-signal validation (not just weather)  
+- Transparent and explainable system  
+- Designed specifically for gig workers  
+
+---
+
+##  Demo Video
 (Add your link here)
